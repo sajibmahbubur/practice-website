@@ -1,3 +1,3 @@
 # practice-website
-dreamy taste website
+website
 live link: https://sajibmahbubur.github.io/practice-website/
